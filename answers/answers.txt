@@ -1,0 +1,7 @@
+1. mkdir answers, ls-F,  cd answers, touch answers.txt
+
+5. ls -a is the command that lets you to list all the files in a directory including hidden fils.
+
+6. ls
+
+7. rm deletes the file.
