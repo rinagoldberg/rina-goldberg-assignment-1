@@ -1,7 +1,4 @@
-1. mkdir answers, ls-F,  cd answers, touch answers.txt
-
-5. ls -a is the command that lets you to list all the files in a directory including hidden fils.
-
-6. ls
-
-7. rm deletes the file.
+5. Ls - a
+6. Ls followed by the path of the directory of files ls /(directory)
+7.Rm is a dangerous command because it permanently deletes files. If an important file, such as desktop or applications, it will mess up how your computer functions
+Mkdir -p results
