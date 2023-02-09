@@ -1,4 +1,3 @@
-mdkir answers/ cd answers/ touch answers
 
 5. Ls - a
 6. Ls followed by the path of the directory of files ls /(directory)
