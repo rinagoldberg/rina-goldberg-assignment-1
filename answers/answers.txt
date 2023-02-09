@@ -1,4 +1,37 @@
+
+Steps for assignment 1
+Part 1
+1. Made repository called rina-goldberg-assignment-1 in Github
+2. git clone https://github.com/rinagoldberg/rina-goldberg-assignment-1.git
+3. touch README.md
+4. nano README.md
+5. In README.md I added Rina Goldberg
+b. Hello, my name is Rina Goldberg. I am a fourth year at Brandeis and I am
+an Environmental Studies major and a Climate Justice Science Policy (CJSP) minor. I am not 100% sure what I want in my career, but I am interested in becoming an environmental scientist or ecologist. I want a career that's hands on and allows me to travel. I am taking this course because I would like to learn how to code. Even though I have no coding experience, I think it would be a useful skill for jobs. My hobbies include watching TV shows/movies, listening to music (pop), hanging out with friends, video games, and I'm trying to teach myself how to knit.
+6. Git status, git add README.md, git commit -m 'question 5 in readme', git push
+7. Git status, git add assignment-1-main-main\2/, git commit
+8 Git config --global core.editory "nano-w" git push
+
+Part 2
+1. Mkdir answers/
+2. Touch answers.txt
+3. Nano answers.txt
+4. Ls/users/rinagoldberg/github/rina-goldberg-assignment-1/answers/answers.txt
 5. Ls - a
 6. Ls followed by the path of the directory of files ls /(directory)
 7.Rm is a dangerous command because it permanently deletes files. If an important file, such as desktop or applications, it will mess up how your computer functions
 Mkdir -p results
+8. Mkdir -p results
+9. Nano my_script.sh, in nano I added in the code from the assignment PDF
+10. chmod 755 my_script.sh
+11. cd ../assignment-1-main-main\2/data
+12. wc -w annual_aqi_by* | sort -rn | head -3 | tail -1
+13. For filename in *.csv
+	DO
+	echo $filename
+	../../answers/my_script.sh $filename
+	Done
+14. Mkdir unzippled files, mv annual_aqi_by_county_*.csv unzippled-files/
+15. rm .zip
+16. cp -r unzipped files ../../answers/results
+17 link to respitory: https://github.com/rinagoldberg/rina-goldberg-assignment-1
