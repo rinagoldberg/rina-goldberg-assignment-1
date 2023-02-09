@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 Steps for assignment 1
 Part 1
 1. Made repository called rina-goldberg-assignment-1 in Github
@@ -17,6 +18,8 @@ Part 2
 2. Touch answers.txt
 3. Nano answers.txt
 4. Ls/users/rinagoldberg/github/rina-goldberg-assignment-1/answers/answers.txt
+=======
+>>>>>>> refs/remotes/origin/main
 5. Ls - a
 6. Ls followed by the path of the directory of files ls /(directory)
 7.Rm is a dangerous command because it permanently deletes files. If an important file, such as desktop or applications, it will mess up how your computer functions
